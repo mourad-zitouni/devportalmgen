@@ -1,0 +1,16 @@
+uuid: cca69586-129b-48af-a2c8-bbcde76291b3
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - apigee_api_catalog
+_core:
+  default_config_hash: chkSGxBxhAlOJADoE68EMCmIIvgzJM1OoZAlywX4ANc
+name: 'API Doc'
+type: apidoc
+description: 'Use <em>API Docs</em> to document APIs'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false
